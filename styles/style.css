@@ -98,5 +98,37 @@ header{
 }
 /* about css ends */
 
+/* cook css starts */
+.cook{
+    width: 1000px;
+    margin: 0 auto;
+    border: 1px solid tomato;
+    margin-top: 100px;
+}
+.cook-title{
+    font-size: 2.2rem;
+    font-weight: 700;
+    color: rgba(103, 103, 103, 1);
+    text-align: center;
+}
+.container{
+    border: 1px solid green;
+    display: flex;
+    justify-content: space-between;
+}
+.card{
+    width:40%;
+    border: 2px solid red;
+}
+.card img{
+    width: 100%;
+}
+.card-title{
+    font-size: 1.7rem;
+    font-weight: 800;
+    color: rgba(24, 25, 31, 1);
+}
+/* cook css ends */
+
 
 /* main css ends */

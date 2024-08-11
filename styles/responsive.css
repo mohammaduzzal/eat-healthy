@@ -19,6 +19,19 @@
     .about-child{
         width: 100%;
     }
+    .cook{
+        width: 100%;
+    }
+    .container{
+        width: 100%;
+        flex-direction: column;
+       
+    }
+    .card{
+        width: 70%;
+        display: block;
+        margin: 0 auto;
+    }
    
     
 }
