@@ -8,6 +8,17 @@
     .banner-child{
         width: 100%;
     }
-    
+    main{
+        width: 100%;
+    }
+    .about{
+        flex-direction: column-reverse;
+        width: 100%;
+ 
+    }
+    .about-child{
+        width: 100%;
+    }
+   
     
 }
