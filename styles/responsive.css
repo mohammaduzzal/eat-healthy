@@ -32,6 +32,11 @@
         display: block;
         margin: 0 auto;
     }
+    .amount{
+        grid-template-columns: repeat(1, 1fr);
+        width: 100%;
+        gap: 10px;
+    }
    
     
 }
